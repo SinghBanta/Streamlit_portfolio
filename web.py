@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 
-### The code given in comment is to apply animation and images but not able to do so,ignore it.
+# The code given in comment is to apply animation and images but not able to do so,ignore it.
 
 # Find more emojis here:http://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="My Webpage",page_icon=":tada:",layout="wide")
